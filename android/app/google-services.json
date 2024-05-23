@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112681296976",
+    "project_id": "prjpaolapersistenc",
+    "storage_bucket": "prjpaolapersistenc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112681296976:android:6c20220eef1ea00ff35d55",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGGi0na4S8Y0rsqtG3TliT6AeLwl59HCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
